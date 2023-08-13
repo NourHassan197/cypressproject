@@ -1,0 +1,20 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "automation",
+    "frameworks"
+  ],
+  "author": "Nour Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  }
+}
